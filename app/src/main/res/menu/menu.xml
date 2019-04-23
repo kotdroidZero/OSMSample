@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuOSRM"
+        android:title="OSRM" />
+
+    <item
+        android:id="@+id/menuGHFastest"
+        android:title="GraphHopper Fastest" />
+
+    <item
+        android:id="@+id/menuGHPedestrian"
+        android:title="GraphHopper Pedestrian" />
+
+    <item
+        android:id="@+id/menuGHBicycle"
+        android:title="GraphHopper Bicycle" />
+
+    <item
+        android:id="@+id/menuGoogleProvider"
+        android:title="Google Provider" />
+
+</menu>

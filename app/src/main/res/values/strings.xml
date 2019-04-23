@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">OSM</string>
+
+    <string name="launch_activity">Launch</string>
+    <string name="action_okay">OKAY</string>
+    <string name="location_permission_needed">Location permission needed for exploring the app features.</string>
+    <string name="camera_permission_needed">Camera permission needed for better uses of app.</string>
+    <string name="storage_permission_needed">Storage permissions are required for better response of the application.</string>
+    <string name="enable_camera_permission">Grant Camera Permission from Settings</string>
+    <string name="permission_required">All the permission are needed.</string>
+    <string name="enable_required_permission">Please grant permission from Settings</string>
+    <string name="ok">Ok</string>
+    <string name="base_url" translatable="false">https://graphhopper.com/api/1/navigate/</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="google_map_api_key">AIzaSyDBiigMD0dq_KnLq2Sdk2xvljc7EDwxAeI</string>
+    <string name="graph_hopper_api_key" translatable="false">642ed03f-f638-4bc3-a781-35fb32eec2f4</string>
+    <string name="stop">Stop</string>
+    <string name="record">Record</string>
+    <string name="route_profile_key" translatable="false">route_profile</string>
+
+    <string name="menu_low_quality">Low Quality (480 px)</string>
+    <string name="menu_medium_quality">Medium Quality (720 px)</string>
+    <string name="menu_high_quality">High Quality (1080 px)</string>
+    <string name="video_recording_time_initial">00:00</string>
+    <string name="text_choose_your_mood">" \"CHOOSE YOUR MOOD\" "</string>
+    <string name="text_emoji_instructions"><![CDATA[Drag & Drop an emoji according to your mood and then we will entertain you according to your mood.]]></string>
+    <string name="load_process"><![CDATA[Load & Process]]></string>
+    <string name="payment_amount">Enter a Valid amount for payment</string>
+    <string name="take_photo">Camera</string>
+    <string name="choose_from_gallery">Gallery</string>
+    <string name="upload_file">Upload File</string>
+    <string name="processing_video">Processing</string>
+    <string name="error_calculating_route">There was an error calculating the route</string>
+    <string name="error_valid_route_not_found">Valid route not found.</string>
+
+    <string name="route">Path</string>
+    <string name="error_location_not_found">Location not found</string>
+    <string name="error_fetching_geocoding">error in finding location. try later.</string>
+    <string name="geocoding_search">Enter location</string>
+    <string name="search_input">abc</string>
+    <string name="simulate_route_key" translatable="false">simulate_route</string>
+    <string name="error_not_enough_waypoints">A route needs at least 2 waypoints</string>
+    <string name="error_geocoding_no_location">No location found.</string>
+    <string name="error_too_far_from_start_title">Too far from start</string>
+    <string name="error_too_far_from_start_message">Would you like to recalculate the route from your current location?</string>
+    <string name="start_from_location_key" translatable="false">start_from_location</string>
+
+
+</resources>

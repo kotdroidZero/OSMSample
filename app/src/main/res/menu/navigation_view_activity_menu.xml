@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigate_btn"
+        android:title="Navigation" />
+
+    <item
+        android:id="@+id/geocoding_search_btn"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/fetch_solution_btn"
+        android:title="Fetch" />
+
+    <item
+        android:id="@+id/reset_route_btn"
+        android:title="Reset" />
+
+    <item
+        android:id="@+id/settings"
+        android:title="Settings" />
+
+    <item
+        android:id="@+id/help"
+        android:title="Help" />
+
+</menu>
